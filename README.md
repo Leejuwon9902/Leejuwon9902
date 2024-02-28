@@ -1,7 +1,8 @@
-### Hi, there 👋
+### Welcom to my page 👋
 
 🌱 소개
-Hello, I'm a planner and Project Manager who works with data
+Hello, I'm  juwon, a planner and Project Manager who works with data.
+I'm from korea
 
 🛠 기술 스택(Skill)
 프로그래밍 언어: [Python, Java, Javascript, Jquery, HTML, CSS, R]
@@ -12,7 +13,8 @@ Hello, I'm a planner and Project Manager who works with data
 
 
 📫 연락처(Contact)
-이메일:[Septem_jw@naver.com]
+E-mail:[September_jw@naver.com]
+Instargram
 
 
 <!--
