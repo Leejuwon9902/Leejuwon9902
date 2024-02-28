@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Lee ju won 👋
 
 🌱 소개
 Hello, I'm a planner who works with data
