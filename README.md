@@ -20,7 +20,7 @@ Hello, I'm  juwon, a planner and Project Manager who works with data.
 - **[LangChain을 이용한 Rag System 챗봇 개발]** :(진행중)
 
 ## 📫 연락처
-- 이메일: [okteam13@gmail.com]
+- 이메일: [september_jw@naver.com]
 
 
 ---
